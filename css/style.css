@@ -37,6 +37,10 @@
   text-align: center;
 }
 
+#devInfo {
+  font-family: 'Raleway', sans-serif;
+}
+
 #infoHeader {
   color: #DE5A51;
 }
