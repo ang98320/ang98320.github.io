@@ -91,6 +91,12 @@
 #filtering {
   width: 50%;
 }
+
+#extraspace {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
 /* Begin specific type stuff */
 h1 {
   text-align: center;
