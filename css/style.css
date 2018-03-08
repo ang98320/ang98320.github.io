@@ -10,14 +10,8 @@
 }
 
 .button {
-<<<<<<< HEAD
   color: #DE5A51;
   border: solid 2px #FFF;
-=======
-	position: relative;
-  color: #DE5A51;
-  border: solid 2px #77585800;
->>>>>>> 5bd54d93059f54adc180bcaf09b5bbcbb1eaa917
   border-radius: 50%;
   display: inline-block;
   width: 50px;
@@ -28,10 +22,6 @@
 }
 
 .fa {
-<<<<<<< HEAD
-=======
-	position: relative;
->>>>>>> 5bd54d93059f54adc180bcaf09b5bbcbb1eaa917
   font-size: 36px;
 }
 
@@ -70,10 +60,7 @@
 #nameline{
   margin-top:-50px;
   width: 50%;
-<<<<<<< HEAD
   color: #000;
-=======
->>>>>>> 5bd54d93059f54adc180bcaf09b5bbcbb1eaa917
 }
 
 #background{
@@ -98,7 +85,6 @@
 }
 
 #portLineID {
-	position:relative;
   color: #000;
   padding-bottom:80px;
   width: 10%;
