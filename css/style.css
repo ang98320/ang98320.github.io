@@ -6,12 +6,12 @@
   border: 0;
   border-top: solid 5px;
   text-align: center;
+  color: #DE5A51;
 }
 
 .button {
-	position: relative;
   color: #DE5A51;
-  border: solid 2px #77585800;
+  border: solid 2px #FFF;
   border-radius: 50%;
   display: inline-block;
   width: 50px;
@@ -22,7 +22,6 @@
 }
 
 .fa {
-	position: relative;
   font-size: 36px;
 }
 
@@ -55,12 +54,13 @@
  font-family: 'Raleway', sans-serif;
   font-size: 64px;
   font-variant: small-caps;
-	font-weight: 100;
+  font-weight: 100;
 }
 
 #nameline{
   margin-top:-50px;
   width: 50%;
+  color: #000;
 }
 
 #background{
@@ -85,7 +85,6 @@
 }
 
 #portLineID {
-	position:relative;
   color: #000;
   padding-bottom:80px;
   width: 10%;
