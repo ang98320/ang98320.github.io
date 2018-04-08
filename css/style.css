@@ -96,12 +96,16 @@
 }
 
 #filtering {
-  width: 50%;
+  width: 35%;
 }
 
 #extraspace {
   padding-top: 40px;
   padding-bottom: 40px;
+}
+
+#game {
+  width: 35%;
 }
 /* Begin specific type stuff */
 h1 {
