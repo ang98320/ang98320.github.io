@@ -107,6 +107,14 @@
 #game {
   width: 35%;
 }
+
+#quote {
+  width: 100%;
+}
+
+#weather {
+  width: 100%;
+}
 /* Begin specific type stuff */
 h1 {
   text-align: center;
