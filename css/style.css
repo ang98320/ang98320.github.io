@@ -30,7 +30,9 @@
 }
 
 .thirds {
-  
+  display: inline-block;
+  width: 50%;
+  font-family: 'Raleway', sans-serif;
 }
 /*Begin id stuff*/
 #infoHeader {
