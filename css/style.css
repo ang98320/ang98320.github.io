@@ -28,6 +28,10 @@
 .descText {
   max-width:960px;
 }
+
+.thirds {
+  
+}
 /*Begin id stuff*/
 #infoHeader {
   max-width: 900px;
@@ -54,13 +58,17 @@
  font-family: 'Raleway', sans-serif;
   font-size: 64px;
   font-variant: small-caps;
-  font-weight: 100;
+	font-weight: 100;
 }
 
 #nameline{
   margin-top:-50px;
   width: 50%;
   color: #000;
+}
+
+#ML {
+  width: 100%;
 }
 
 #background{
@@ -80,6 +88,12 @@
   border-radius: 50%;
 }
 
+#certHolder {
+  width: 75%;
+  grid-template-columns: 25% 25% 25%;
+  grid-template-rows: 75%;
+}
+
 #portID {
   color:#000;
 }
@@ -88,6 +102,12 @@
   color: #000;
   padding-bottom:80px;
   width: 10%;
+}
+
+#portLineIDCert {
+  color: #000;
+  padding-bottom:30px;
+  width: 40%;
 }
 
 #colorswap {
@@ -104,6 +124,10 @@
   padding-bottom: 40px;
 }
 
+#rec {
+  margin-left: 10%;
+}
+
 #game {
   width: 35%;
 }
@@ -115,7 +139,15 @@
 #weather {
   width: 100%;
 }
+
+#certID {
+  color: #000;
+}
 /* Begin specific type stuff */
+video {
+  width: 100%;
+}
+
 h1 {
   text-align: center;
   font-family: 'Raleway', sans-serif;
@@ -127,6 +159,3 @@ h2 {
   font-size: 1.5em;
 }
 
-video {
-  width: 100%;
-}
