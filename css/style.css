@@ -34,6 +34,10 @@
   width: 50%;
   font-family: 'Raleway', sans-serif;
 }
+
+.img {
+	width: 50%;
+}
 /*Begin id stuff*/
 #infoHeader {
   max-width: 900px;
